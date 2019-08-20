@@ -12,7 +12,7 @@ Note the following:
 - for your (and our) viewing pleasure you can use Bootstrap, but don't spend more than a few minutes on styling!
 - your code should contain at least one "Feature" (a.k.a. acceptance) test, see https://laravel.com/docs/testing
 
-####Getting started
+#### Getting started
 ```bash
 git clone https://github.com/lenderspender/laravel-blog-exercise laravel-blog-exercise
 cd laravel-blog-exercise
