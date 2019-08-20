@@ -8,7 +8,7 @@ Create a very simple blog built on the Laravel framework where a user can perfor
 Note the following:
 - a blog item has only a title and content attribute. 
 - ignore user authentication, a user in this case is a non-logged in user (a.k.a. guest)
-- sqlite has been configured for your database connection
+- sqlite has been configured for your database connection, so don't spend time on this.
 - for your (and our) viewing pleasure you can use Bootstrap, but don't spend more than a few minutes on styling!
 - your code should contain at least one "Feature" (a.k.a. acceptance) test, see https://laravel.com/docs/testing
 
