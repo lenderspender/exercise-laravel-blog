@@ -12,6 +12,15 @@ Note the following:
 - for your (and our) viewing pleasure you can use Bootstrap, but don't spend more than a few minutes on styling!
 - your code should contain at least one "Feature" (a.k.a. acceptance) test, see https://laravel.com/docs/testing
 
+####Getting started
+```bash
+git clone https://github.com/lenderspender/laravel-blog-exercise laravel-blog-exercise
+cd laravel-blog-exercise
+composer install
+php artisan serve
+```
+https://laravel.com/docs/ is your best friend ;-)
+
 When finished, make sure the following script runs without errors:
 ```bash
 git clone https://github.com/<yourid>/laravel-blog-exercise laravel-blog-exercise
@@ -22,15 +31,6 @@ vendor/bin/phpunit
 php artisan serve
 ```
 
-Don't spend more than 4 hours on this.
+Time limit is 4 hours.
 
 Good luck!
-
-###Getting started
-```bash
-git clone https://github.com/lenderspender/laravel-blog-exercise laravel-blog-exercise
-cd laravel-blog-exercise
-composer install
-php artisan serve
-```
-https://laravel.com/docs/ is your best friend ;-)
